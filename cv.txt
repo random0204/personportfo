@@ -1,0 +1,1 @@
+This is just a sample front-end(that too made without a framework as i wanted to challenge myself) of a portfolio made without any back-end,hence no resume uploaded.
